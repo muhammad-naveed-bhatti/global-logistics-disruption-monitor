@@ -1,0 +1,9 @@
+type,severity,location,summary,date,source_url
+Port congestion,High,"Jebel Ali, UAE",Container gate congestion and extended dwell-time advisory.,2026-10-06,https://example.com/disruptions/jebel-ali
+Severe weather,High,"Karachi, Pakistan",Heavy rain may affect road feeder and cargo handling windows.,2026-10-06,https://example.com/disruptions/karachi-weather
+Air cargo,Medium,"Doha, Qatar",Cargo terminal processing delays reported during peak handling window.,2026-10-05,https://example.com/disruptions/doha-cargo
+Road transport,Medium,"Lahore, Pakistan",Urban traffic diversion affecting selected industrial corridors.,2026-10-06,https://example.com/disruptions/lahore-road
+Airport operations,Medium,"Dubai, UAE",Short-term stand/gate pressure may affect cargo transfer timing.,2026-10-05,https://example.com/disruptions/dubai-airport
+Customs,Low,"Riyadh, Saudi Arabia",Routine document-verification backlog at selected processing desks.,2026-10-04,https://example.com/disruptions/riyadh-customs
+Warehouse,Medium,"Hamburg, Germany",Inbound slot constraints affecting selected warehouse appointments.,2026-10-06,https://example.com/disruptions/hamburg-warehouse
+Freight rail,Low,"Warsaw, Poland",Planned maintenance may change some rail freight schedules.,2026-10-07,https://example.com/disruptions/warsaw-rail
